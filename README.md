@@ -7,3 +7,6 @@ Semantic segmentation is performed in order to classify different attributes ass
 ###### Vegetation: #FEDD3A
 ###### Water: #E2A929
 ###### Unlabeled: #9B9B9B
+
+# Final Result
+![Final_output](https://user-images.githubusercontent.com/60823367/134293829-309a1a96-38b1-4694-931e-3d19f7257666.png)
